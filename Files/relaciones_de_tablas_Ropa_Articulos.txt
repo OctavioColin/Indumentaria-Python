@@ -1,0 +1,2 @@
+1|1|1|Abrigo|Vestir/Formal|M|INVIERNO|Blanco
+2|2|2|Abrigo|Lluvia|XL|INVIERNO|Negro
